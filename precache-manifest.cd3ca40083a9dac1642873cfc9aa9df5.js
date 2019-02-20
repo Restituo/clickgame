@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/clickgame/static/media/clownfish.1069ab6f.jpg"
   },
   {
-    "revision": "a02727a00c862dd903f4",
+    "revision": "16c3acb548ab9f9ccebd",
     "url": "/clickgame/static/css/main.8ec998c3.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/clickgame/static/media/chromis.df16d5fd.jpg"
   },
   {
-    "revision": "a02727a00c862dd903f4",
-    "url": "/clickgame/static/js/main.a02727a0.chunk.js"
+    "revision": "16c3acb548ab9f9ccebd",
+    "url": "/clickgame/static/js/main.16c3acb5.chunk.js"
   },
   {
     "revision": "49b9dc5fc0dbf35c2a125d2532adaa4e",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/clickgame/static/media/tang.5247794b.jpg"
   },
   {
-    "revision": "f455f159df58c88f37683d52f223f920",
+    "revision": "687a17e10f8d4fb9bd2783ab346468eb",
     "url": "/clickgame/index.html"
   }
 ];
